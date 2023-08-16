@@ -1,0 +1,205 @@
+
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Book Antiqua', arial;
+    
+    font-weight: 500;
+   
+}
+
+.main-container{
+
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.main{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #f9ead7;
+    
+    
+    
+}
+
+
+#heading{
+    font-family: 'ChomskyRegular';
+   font-weight: 500;
+   font-style: normal;
+   font-size: 70px;
+  color: #3d3027;
+}
+
+#sub-heading{
+    font-weight: 550;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header-img{
+    max-width: 530px;
+}
+
+#date_pic{
+    max-width: 10px;
+    font-weight: 800;
+}
+
+#date{
+    font-size: 12px;
+    padding-left: 3px;
+}
+
+.content{
+    max-width: 97%;
+}
+
+#Entrepreneur{
+    font-size: 20px;
+}
+
+.line{
+    border: 1px solid black;
+    margin-top: 2px;
+}
+
+.flex{
+    display: flex;
+}
+
+.content_btw{
+    justify-content: space-between;
+}
+
+
+.right-img{
+    width: 150px;
+    padding-right: 20px;
+
+}
+
+#ChatGpt-txt{
+    font-size: 20px;
+}
+.y-axis{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.check-icon{
+    width: 20px;
+    margin-right: 3px;
+}
+
+#font-size{
+    font-size: xx-large;
+}
+
+.brown{
+    background-color: #994d0b;
+    border: none;
+   width: 200px;
+   height: 30px;
+   color: white;
+}
+
+#dark-brown{
+    color: white;
+    background-color: #3e2d1f;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: x-large;
+}
+
+#black{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    display: inline;
+    
+}
+
+.bg-clr-dark{
+    background-color: #eec68c;
+    width: 100%;
+    display: block;
+}
+
+.footer{
+    background-color: #3e2d1f;
+}
+
+li{
+    list-style: none;
+}
+
+.padding{
+   padding: 30px;
+}
+
+.header-btn{
+    margin: 2px;
+    width: 20%;
+    background-color: #f6e3c4;
+    border: none;
+}
+
+.flex-y{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.sign-img{
+    padding-top: 50px;
+    width: 150px;
+}
+
+.sign-pic{
+    width: 130px;
+    margin-right: 5px;
+}
+
+.ic-pic{
+    width: 40px;
+    margin-top: 20px;
+}
+
+.ic1-pic{
+    width: 500px;
+}
+
+
+.tube-box{
+    height: 180px;
+    margin-right: 5px;
+    margin-top: -10px;
+}
+
+.connect{
+    color: white;
+    font-size: 1.3rem;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    margin-bottom: 5px;
+}
+
+#banner{
+   width: 500px;
+   height: 400px;
+   margin-left: 120px;
+}
